@@ -1,0 +1,25 @@
+{
+    "user": "Pontus",
+    "projects": [
+        {
+            "id": 1,
+            "name": "My first project",
+            "description": "Skapad 2003"
+        },
+        {
+            "id": 2,
+            "name": "My second project",
+            "description": "Skapad 2004"
+        }
+    ],
+    "arbete": [
+        {
+            "id": 1,
+            "name": "ett"
+        },
+        {
+            "id": 2,
+            "name": "två"
+        }
+    ]
+}
